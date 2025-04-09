@@ -17,12 +17,12 @@ This repository showcases a collection of my dashboarding projects, featuring dy
 
 <p align="center"><strong>Sheet 1. Sales Overview by Product</strong></p>
 <p align="center">
-  <img src="Excel - Product Dashboard/Excel-Product Dashboard1.png" alt="Excel - Product Dashboard">
+  <img src="Excel - Product Dashboard/Excel-Product Dashboard2.png" alt="Excel - Product Dashboard">
 </p>
 
 <p align="center"><strong>Sheet 2. Product Sales Volume & Pricing Overview</strong></p>
 <p align="center">
-  <img src="Excel - Product Dashboard/Excel-Product Dashboard2.png" alt="Excel - Product Dashboard">
+  <img src="Excel - Product Dashboard/Excel-Product Dashboard1.png" alt="Excel - Product Dashboard">
 </p>
 
 - **Files**: [Excel-Product Dashboard.pbix](https://github.com/LamVKiet/Dashboard/blob/main/Excel%20-%20Product%20Dashboard/Excel-Product%20Dashboard.xlsx).
